@@ -17,7 +17,7 @@ body {
     background-image: url("../images/bg-pattern-top.svg"), url("../images/bg-pattern-bottom.svg");
     background-position: right bottom, left top;
     background-repeat: no-repeat;
-    background-size: fit;
+    background-size: cover;
 }
 
 h1 {
